@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
-#include "serial.c"
+#include <serial.h>
 #include <stdio.h>
 #include <stdlib.h>
 /* Pins
